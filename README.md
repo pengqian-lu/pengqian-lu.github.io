@@ -1,7 +1,3 @@
-# Pengqian Lu's Homepage
-
----
-
 <!-- Profile Section -->
 <table>
   <tr>
