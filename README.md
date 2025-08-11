@@ -72,7 +72,7 @@ Outside of academia, I enjoy reading historical books, solving challenges, and c
 ### 📝 Publications
 
 
-1.  **Lu, P.**, Lu, J., Liu, A., & Zhang, G. (2025). Early concept drift detection via prediction uncertainty. In *Proceedings of the AAAI Conference on Artificial Intelligence* (Vol. 39, No. 18, pp. 19124-19132). <mark>CCF-A, CORE Ranking A*</mark>
+1.  **Lu, P.**, Lu, J., Liu, A., & Zhang, G. (2025). Early concept drift detection via prediction uncertainty. In *Proceedings of the AAAI Conference on Artificial Intelligence* (Vol. 39, No. 18, pp. 19124-19132). [[PDF]](https://arxiv.org/pdf/2412.11158) [[CODE]](https://github.com/AAII-DeSI/concept-drift-RocStone/tree/main/AAAI2025-PUDD) <mark>CCF-A, CORE Ranking A*</mark>
 2.  Zhou, M., Lu, J., **Lu, P.**, & Zhang, G. (2024). Dynamic graph regularization for multi-stream concept drift self-adaptation. *IEEE Transactions on Knowledge and Data Engineering*, 36(11), 6016-28. <mark>CCF-A, CORE Ranking A*</mark>
 3.  Li, Z., Zhang, J., Gan, J., **Lu, P.**, Gao, Z., & Kong, W. (2019). Large-scale trip planning for bike-sharing systems. *Pervasive and Mobile Computing*, 54, 16-28.
 4.  **Lu, P.**, Zhang, J., Zheng, S., & Zhang, T. (2019). Local ratio based distributed bike-dock pair allocation in public bike system. In *Proceedings of the ACM Turing Celebration Conference-China* (pp. 1-5).
