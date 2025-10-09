@@ -72,11 +72,12 @@ Outside of academia, I enjoy reading historical books, solving challenges, and c
 ### 📝 Publications
 
 
-1.  **Lu, P.**, Lu, J., Liu, A., & Zhang, G. (2025). Early concept drift detection via prediction uncertainty. In *Proceedings of the AAAI Conference on Artificial Intelligence* (Vol. 39, No. 18, pp. 19124-19132). [[PDF]](https://arxiv.org/pdf/2412.11158) [[CODE]](https://github.com/AAII-DeSI/concept-drift-RocStone/tree/main/AAAI2025-PUDD) <mark>CCF-A, CORE Ranking A*</mark>
-2.  Zhou, M., Lu, J., **Lu, P.**, & Zhang, G. (2024). Dynamic graph regularization for multi-stream concept drift self-adaptation. *IEEE Transactions on Knowledge and Data Engineering*, 36(11), 6016-28. <mark>CCF-A, CORE Ranking A*</mark>
+1.  **Lu, P.**, Lu, J., Liu, A., & Zhang, G. (2025). Early concept drift detection via prediction uncertainty. In *Proceedings of the AAAI Conference on Artificial Intelligence* (Vol. 39, No. 18, pp. 19124-19132). [[PDF]](https://arxiv.org/pdf/2412.11158) [[CODE]](https://github.com/AAII-DeSI/concept-drift-RocStone/tree/main/AAAI2025-PUDD) <mark>AAAI, CCF-A, CORE Ranking A*</mark>
+2.  Zhou, M., Lu, J., **Lu, P.**, & Zhang, G. (2024). Dynamic graph regularization for multi-stream concept drift self-adaptation. *IEEE Transactions on Knowledge and Data Engineering*, 36(11), 6016-28. <mark>TKDE, CCF-A, CORE Ranking A*</mark>
+3. Xia, X., **Lu, P**., Gong, C., Han, B., Yu, J., & Liu, T. (2023). Regularly truncated m-estimators for learning with noisy labels. IEEE Transactions on Pattern Analysis and Machine Intelligence, 46(5), 3522-3536. [[PDF]](https://arxiv.org/pdf/2309.00894)[[CODE]](https://github.com/xiaoboxia/RTM_LNL) <mark>TPAMI, CCF-A, CORE Ranking A*, Co-first author</mark>
 3.  Li, Z., Zhang, J., Gan, J., **Lu, P.**, Gao, Z., & Kong, W. (2019). Large-scale trip planning for bike-sharing systems. *Pervasive and Mobile Computing*, 54, 16-28.
 4.  **Lu, P.**, Zhang, J., Zheng, S., & Zhang, T. (2019). Local ratio based distributed bike-dock pair allocation in public bike system. In *Proceedings of the ACM Turing Celebration Conference-China* (pp. 1-5).
-5.  Zhang, J., **Lu, P.**, Li, Z., & Gan, J. (2018). Distributed trip selection game for public bike system with crowdsourcing. In *IEEE INFOCOM 2018-IEEE Conference on Computer Communications* (pp. 2717-2725). IEEE. <mark>CCF-A, CORE Ranking A*</mark>
+5.  Zhang, J., **Lu, P.**, Li, Z., & Gan, J. (2018). Distributed trip selection game for public bike system with crowdsourcing. In *IEEE INFOCOM 2018-IEEE Conference on Computer Communications* (pp. 2717-2725). IEEE. <mark>INFOCOM, CCF-A, CORE Ranking A*</mark>
 
 ---
 <p align="center"><sub>Page maintained by Pengqian Lu. Last updated: August 2025.</sub></p>
