@@ -72,6 +72,7 @@ Outside of academia, I enjoy reading historical books, solving challenges, and c
 ### 📝 Publications
 
 
+1. **Lu, P.**, Lu, J., Liu, A., Yu, E., & Zhang, G. (2025) Autonomous Concept Drift Threshold Determination. Accepted By AAAI 2026. [[PDF]]() [[CODE]](https://github.com/AAII-DeSI/concept-drift-RocStone/tree/main/AAAI2026-DTD) <mark>AAAI, CCF-A, CORE Ranking A*</mark>
 1.  **Lu, P.**, Lu, J., Liu, A., & Zhang, G. (2025). Early concept drift detection via prediction uncertainty. In *Proceedings of the AAAI Conference on Artificial Intelligence* (Vol. 39, No. 18, pp. 19124-19132). [[PDF]](https://arxiv.org/pdf/2412.11158) [[CODE]](https://github.com/AAII-DeSI/concept-drift-RocStone/tree/main/AAAI2025-PUDD) <mark>AAAI, CCF-A, CORE Ranking A*</mark>
 2.  Zhou, M., Lu, J., **Lu, P.**, & Zhang, G. (2024). Dynamic graph regularization for multi-stream concept drift self-adaptation. *IEEE Transactions on Knowledge and Data Engineering*, 36(11), 6016-28. <mark>TKDE, CCF-A, CORE Ranking A*</mark>
 3. Xia, X., **Lu, P**., Gong, C., Han, B., Yu, J., & Liu, T. (2023). Regularly truncated m-estimators for learning with noisy labels. IEEE Transactions on Pattern Analysis and Machine Intelligence, 46(5), 3522-3536. [[PDF]](https://arxiv.org/pdf/2309.00894)[[CODE]](https://github.com/xiaoboxia/RTM_LNL) <mark>TPAMI, CCF-A, CORE Ranking A*, Co-first author</mark>
