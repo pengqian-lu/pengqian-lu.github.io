@@ -55,10 +55,10 @@ Outside of academia, I enjoy reading historical books, solving challenges, and c
     *   *March 2021 - September 2022*
 
 *   **Hangzhou Dianzi University**
-    *   *Master's Degree in Computer Science*
-    *   *September 2017 - June 2020*
-    *   *Dropped*
-
+    *   *Graduate Studies in Computer Science*
+    *   *September 2017 - 2020*
+    *   *Research visit to UTS; transferred to the MPhil program at The University of Sydney on a research scholarship*
+ 
 *   **Hangzhou Dianzi University**
     *   *Bachelor's Degree in Computer Science*
     *   *September 2013 - June 2017*
