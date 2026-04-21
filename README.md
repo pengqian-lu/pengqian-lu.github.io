@@ -8,7 +8,7 @@
       <h2>Pengqian Lu</h2>
       <p><em>A friendly man.</em></p>
       <p>
-        Ph.D. Student<br>
+        Postdoctoral Research Associate<br>
         <a href="https://www.uts.edu.au/research/centres/australian-artificial-intelligence-institute">Australian Artificial Intelligence Institute (AAII)</a><br>
         <a href="https://www.uts.edu.au/">University of Technology Sydney</a>
       </p>
@@ -24,7 +24,7 @@
 
 ### About Me
 
-Aloha! I am a Ph.D. student at the [University of Technology Sydney (UTS)](https://www.uts.edu.au/), under the supervision of Prof. [Jie Lu](https://profiles.uts.edu.au/Jie.Lu). I am conducting my research at the [Australian Artificial Intelligence Institute (AAII)](https://www.uts.edu.au/research/centres/australian-artificial-intelligence-institute), a world-leading research institute in artificial intelligence.
+Aloha! I am a Postdoctoral Research Associate at the [Australian Artificial Intelligence Institute (AAII)](https://www.uts.edu.au/research/centres/australian-artificial-intelligence-institute), [University of Technology Sydney (UTS)](https://www.uts.edu.au/), working with Prof. [Jie Lu](https://profiles.uts.edu.au/Jie.Lu). I recently submitted my Ph.D. thesis at UTS (pending examination and conferral), where I was also supervised by Prof. Jie Lu at AAII.
 
 Previously, I obtained my Master of Philosophy (M.Phil.) degree from the [University of Sydney](https://www.sydney.edu.au/), where I was supervised by Dr. [Tongliang Liu](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/tongliang-liu.html).
 
@@ -37,18 +37,24 @@ Outside of academia, I enjoy reading historical books, solving challenges, and c
 
 ---
 
+### 💼 Employment
+
+*   **University of Technology Sydney** — *Postdoctoral Research Associate*, AAII
+    *   *March 2026 - Present*
+
+---
+
 ### 🎓 Education
 
 *   **University of Technology Sydney**
     *   *Doctor of Philosophy in Computer Science*
-    *   *September 2022 - Present*
+    *   *September 2022 - March 2026 (Thesis submitted, pending examination)*
 
 *   **The University of Sydney**
     *   *Master of Philosophy in Computer Science*
     *   *March 2021 - September 2022*
 
-
-*   **Hangzhou Dianzi Univeristy**
+*   **Hangzhou Dianzi University**
     *   *Master's Degree in Computer Science*
     *   *September 2017 - June 2020*
     *   *Dropped*
@@ -71,7 +77,7 @@ Outside of academia, I enjoy reading historical books, solving challenges, and c
 
 ### 📝 Publications
 
-1. **Lu, P.**, Lu, J., Liu, A. and Zhang, G., (2026). TPA: Next Token Probability Attribution for Detecting Hallucinations in RAG. Accepted By ACL 2026. [[PDF]](https://arxiv.org/pdf/2512.07515) [[CODE]](https://github.com/pengqian-lu/TPA)) <mark>AAAI, CCF-A, CORE Ranking A*</mark>
+1. **Lu, P.**, Lu, J., Liu, A. and Zhang, G., (2026). TPA: Next Token Probability Attribution for Detecting Hallucinations in RAG. Accepted By ACL 2026. [[PDF]](https://arxiv.org/pdf/2512.07515) [[CODE]](https://github.com/pengqian-lu/TPA) <mark>AAAI, CCF-A, CORE Ranking A*</mark>
 1. **Lu, P.**, Lu, J., Liu, A., Yu, E., & Zhang, G. (2025) Autonomous Concept Drift Threshold Determination. Accepted By AAAI 2026. [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/39586/43547) [[CODE]](https://github.com/AAII-DeSI/concept-drift-RocStone/tree/main/AAAI2026-DTD) <mark>AAAI, CCF-A, CORE Ranking A*</mark>
 1.  **Lu, P.**, Lu, J., Liu, A., & Zhang, G. (2025). Early concept drift detection via prediction uncertainty. In *Proceedings of the AAAI Conference on Artificial Intelligence* (Vol. 39, No. 18, pp. 19124-19132). [[PDF]](https://arxiv.org/pdf/2412.11158) [[CODE]](https://github.com/AAII-DeSI/concept-drift-RocStone/tree/main/AAAI2025-PUDD) <mark>AAAI, CCF-A, CORE Ranking A*</mark>
 2.  Zhou, M., Lu, J., **Lu, P.**, & Zhang, G. (2024). Dynamic graph regularization for multi-stream concept drift self-adaptation. *IEEE Transactions on Knowledge and Data Engineering*, 36(11), 6016-28. <mark>TKDE, CCF-A, CORE Ranking A*</mark>
@@ -81,4 +87,4 @@ Outside of academia, I enjoy reading historical books, solving challenges, and c
 5.  Zhang, J., **Lu, P.**, Li, Z., & Gan, J. (2018). Distributed trip selection game for public bike system with crowdsourcing. In *IEEE INFOCOM 2018-IEEE Conference on Computer Communications* (pp. 2717-2725). IEEE. <mark>INFOCOM, CCF-A, CORE Ranking A*</mark>
 
 ---
-<p align="center"><sub>Page maintained by Pengqian Lu. Last updated: August 2025.</sub></p>
+<p align="center"><sub>Page maintained by Pengqian Lu. Last updated: April 2026.</sub></p>
